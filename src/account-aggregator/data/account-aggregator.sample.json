@@ -1,0 +1,2674 @@
+﻿[
+    {
+        "mobile_number": "9876543210",
+        "pan": "ABCDE1234F",
+        "bank_details": {
+            "account": {
+                "bank": "HDFC Bank",
+                "accountType": "SAVINGS",
+                "maskedAccountNumber": "XXX1234"
+            },
+            "transactions": [
+                {
+                    "date": "2026-06-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-05-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-04-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-03-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-02-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-01-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2025-12-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2025-01-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-01-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-01-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-01-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-01-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-01-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-01-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-01-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-01-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-01-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-01-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-01-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-01-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-01-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-01-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-01-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-01-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-01-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-01-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-01-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-01-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-01-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-01-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-01-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-01-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-01-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-01-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-01-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-01-31",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-02-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-02-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-02-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-02-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-02-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-02-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-02-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-02-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-02-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-02-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-02-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-02-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-02-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-02-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-02-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-02-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-02-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-02-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-02-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-02-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-02-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-02-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-02-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-02-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-02-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-02-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-02-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-02-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-03-01",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-03-02",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-03-03",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-03-04",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-03-05",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-03-06",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-03-07",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-03-08",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-03-09",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-03-10",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-03-11",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-03-12",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-03-13",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-03-14",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-03-15",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-03-16",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-03-17",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-03-18",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-03-19",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-03-20",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-03-21",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-03-22",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-03-23",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-03-24",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-03-25",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-03-26",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-03-27",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-03-28",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-03-29",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-03-30",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-03-31",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-04-01",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-04-02",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-04-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-04-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-04-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-04-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-04-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-04-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-04-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-04-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-04-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-04-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-04-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-04-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-04-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-04-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-04-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-04-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-04-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-04-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-04-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-04-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-04-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-04-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-04-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-04-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-04-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-04-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-04-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-04-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-05-01",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-05-02",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-05-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-05-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-05-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-05-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-05-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-05-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-05-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-05-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-05-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-05-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-05-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-05-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-05-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-05-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-05-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-05-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-05-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-05-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-05-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-05-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-05-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-05-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-05-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-05-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-05-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-05-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-05-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-05-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-05-31",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-06-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-06-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-06-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-06-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-06-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-06-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-06-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-06-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-06-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-06-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-06-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-06-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-06-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-06-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-06-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-06-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-06-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-06-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-06-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-06-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-06-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-06-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-06-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-06-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-06-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-06-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-06-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-06-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-06-29",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-06-30",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-07-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-07-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-07-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-07-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-07-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-07-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-07-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-07-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-07-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-07-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-07-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-07-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-07-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-07-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-07-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-07-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-07-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-07-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-07-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-07-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-07-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-07-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-07-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-07-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-07-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-07-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-07-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-07-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-07-29",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-07-30",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-07-31",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-08-01",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-08-02",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-08-03",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-08-04",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                }
+            ]
+        }
+    },
+    {
+        "mobile_number": "9123456780",
+        "pan": "PQRST6789L",
+        "bank_details": {
+            "account": {
+                "bank": "SBI Bank",
+                "accountType": "SAVINGS",
+                "maskedAccountNumber": "XXX5678"
+            },
+            "transactions": [
+                {
+                    "date": "2026-05-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2026-04-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2026-03-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2026-02-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2026-01-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2025-12-02",
+                    "description": "Salary credited by Northstar Motors Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 64000
+                },
+                {
+                    "date": "2025-01-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-01-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-01-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-01-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-01-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-01-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-01-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-01-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-01-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-01-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-01-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-01-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-01-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-01-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-01-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-01-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-01-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-01-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-01-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-01-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-01-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-01-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-01-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-01-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-01-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-01-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-01-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-01-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-01-31",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-02-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-02-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-02-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-02-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-02-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-02-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-02-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-02-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-02-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-02-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-02-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-02-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-02-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-02-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-02-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-02-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-02-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-02-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-02-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-02-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-02-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-02-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-02-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-02-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-02-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-02-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-02-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-02-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-03-01",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-03-02",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-03-03",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-03-04",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-03-05",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-03-06",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-03-07",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-03-08",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-03-09",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-03-10",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-03-11",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-03-12",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-03-13",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-03-14",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-03-15",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-03-16",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-03-17",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-03-18",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-03-19",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-03-20",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-03-21",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-03-22",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-03-23",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-03-24",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-03-25",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-03-26",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-03-27",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-03-28",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-03-29",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-03-30",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-03-31",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-04-01",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-04-02",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-04-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-04-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-04-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-04-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-04-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-04-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-04-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-04-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-04-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-04-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-04-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-04-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-04-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-04-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-04-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-04-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-04-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-04-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-04-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-04-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-04-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-04-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-04-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-04-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-04-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-04-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-04-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-04-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-05-01",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-05-02",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-05-03",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-05-04",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-05-05",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-05-06",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-05-07",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-05-08",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-05-09",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-05-10",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-05-11",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-05-12",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-05-13",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-05-14",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-05-15",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-05-16",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-05-17",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-05-18",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-05-19",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-05-20",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-05-21",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-05-22",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-05-23",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-05-24",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-05-25",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-05-26",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-05-27",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-05-28",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-05-29",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-05-30",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-05-31",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-06-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-06-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-06-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-06-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-06-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-06-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-06-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-06-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-06-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-06-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-06-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-06-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-06-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-06-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-06-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-06-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-06-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-06-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-06-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-06-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                },
+                {
+                    "date": "2025-06-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1758
+                },
+                {
+                    "date": "2025-06-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19596
+                },
+                {
+                    "date": "2025-06-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8000
+                },
+                {
+                    "date": "2025-06-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 3787
+                },
+                {
+                    "date": "2025-06-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5274
+                },
+                {
+                    "date": "2025-06-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1661
+                },
+                {
+                    "date": "2025-06-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6748
+                },
+                {
+                    "date": "2025-06-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1684
+                },
+                {
+                    "date": "2025-06-29",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1972
+                },
+                {
+                    "date": "2025-06-30",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2709
+                },
+                {
+                    "date": "2025-07-01",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 26096
+                },
+                {
+                    "date": "2025-07-02",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2450
+                },
+                {
+                    "date": "2025-07-03",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3337
+                },
+                {
+                    "date": "2025-07-04",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4374
+                },
+                {
+                    "date": "2025-07-05",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2261
+                },
+                {
+                    "date": "2025-07-06",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 1347
+                },
+                {
+                    "date": "2025-07-07",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 19185
+                },
+                {
+                    "date": "2025-07-08",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8822
+                },
+                {
+                    "date": "2025-07-09",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4609
+                },
+                {
+                    "date": "2025-07-10",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 6096
+                },
+                {
+                    "date": "2025-07-11",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 1250
+                },
+                {
+                    "date": "2025-07-12",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 6337
+                },
+                {
+                    "date": "2025-07-13",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 1273
+                },
+                {
+                    "date": "2025-07-14",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1561
+                },
+                {
+                    "date": "2025-07-15",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 2298
+                },
+                {
+                    "date": "2025-07-16",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25685
+                },
+                {
+                    "date": "2025-07-17",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 3272
+                },
+                {
+                    "date": "2025-07-18",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 4159
+                },
+                {
+                    "date": "2025-07-19",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 5196
+                },
+                {
+                    "date": "2025-07-20",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 1850
+                },
+                {
+                    "date": "2025-07-21",
+                    "description": "Mobile recharge",
+                    "type": "DEBIT",
+                    "amount": 936
+                },
+                {
+                    "date": "2025-07-22",
+                    "description": "Credit card bill payment",
+                    "type": "DEBIT",
+                    "amount": 18774
+                },
+                {
+                    "date": "2025-07-23",
+                    "description": "Investment SIP debit",
+                    "type": "DEBIT",
+                    "amount": 8411
+                },
+                {
+                    "date": "2025-07-24",
+                    "description": "Online shopping payment",
+                    "type": "DEBIT",
+                    "amount": 4198
+                },
+                {
+                    "date": "2025-07-25",
+                    "description": "Cash withdrawal",
+                    "type": "DEBIT",
+                    "amount": 5685
+                },
+                {
+                    "date": "2025-07-26",
+                    "description": "Medical store payment",
+                    "type": "DEBIT",
+                    "amount": 2072
+                },
+                {
+                    "date": "2025-07-27",
+                    "description": "Insurance premium payment",
+                    "type": "DEBIT",
+                    "amount": 7159
+                },
+                {
+                    "date": "2025-07-28",
+                    "description": "Internet bill payment",
+                    "type": "DEBIT",
+                    "amount": 2095
+                },
+                {
+                    "date": "2025-07-29",
+                    "description": "Dividend credit",
+                    "type": "CREDIT",
+                    "amount": 1150
+                },
+                {
+                    "date": "2025-07-30",
+                    "description": "Refund from merchant",
+                    "type": "CREDIT",
+                    "amount": 1887
+                },
+                {
+                    "date": "2025-07-31",
+                    "description": "Rent payment",
+                    "type": "DEBIT",
+                    "amount": 25274
+                },
+                {
+                    "date": "2025-08-01",
+                    "description": "UPI grocery payment",
+                    "type": "DEBIT",
+                    "amount": 2861
+                },
+                {
+                    "date": "2025-08-02",
+                    "description": "Fuel station payment",
+                    "type": "DEBIT",
+                    "amount": 3748
+                },
+                {
+                    "date": "2025-08-03",
+                    "description": "Electricity bill payment",
+                    "type": "DEBIT",
+                    "amount": 4785
+                },
+                {
+                    "date": "2025-08-04",
+                    "description": "Restaurant payment",
+                    "type": "DEBIT",
+                    "amount": 2672
+                }
+            ]
+        }
+    }
+]
