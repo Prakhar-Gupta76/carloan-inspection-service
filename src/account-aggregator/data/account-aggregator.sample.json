@@ -10,6 +10,18 @@
             },
             "transactions": [
                 {
+                    "date": "2026-08-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
+                    "date": "2026-07-02",
+                    "description": "Salary credited by ABC Technologies Pvt. Ltd.",
+                    "type": "CREDIT",
+                    "amount": 72500
+                },
+                {
                     "date": "2026-06-02",
                     "description": "Salary credited by ABC Technologies Pvt. Ltd.",
                     "type": "CREDIT",
